@@ -1,0 +1,9 @@
+.numberOfProducts {
+    position: relative;
+    top:-14px;
+    right: 9px;
+}
+
+.btn {
+    border-radius: 100%;
+}

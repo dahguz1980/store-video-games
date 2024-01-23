@@ -1,0 +1,15 @@
+.container   {
+    margin-left: 0
+}
+
+.blue {
+    background-color: rgb(7, 28, 59);
+}
+
+.carwidget {
+    margin-right: 10px;
+}
+
+.btn:hover {
+    color: #dee2e6;
+}
